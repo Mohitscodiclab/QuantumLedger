@@ -6,12 +6,22 @@ QuantumLedger is a powerful, offline-first desktop application designed to strea
 
 -----
 
+## 🎯 Who is QuantumLedger For?
+
+This software was purpose-built to solve the exact pain points of local commerce:
+
+  * **Small Business Owners:** Say goodbye to messy, time-consuming pen-and-paper ledgers. QuantumLedger digitizes your entire workflow, saving you hours of manual calculation at the end of the day and completely eliminating human error.
+  * **Local Vendors & Retailers:** Perfect for brick-and-mortar shops that need lightning-fast billing while a customer is standing at the counter waiting.
+  * **Bootstrapped Startups:** Look like a massive enterprise with beautifully branded PDF invoices and automated WhatsApp receipts, all without paying exorbitant monthly fees for cloud-based SaaS products.
+
+-----
+
 ## ⚡ What Makes QuantumLedger Powerful? (The Competitive Edge)
 
 Most modern CRMs trap business owners in endless monthly SaaS subscriptions and hold their data hostage in the cloud. QuantumLedger breaks that mold:
 
   * **100% Data Sovereignty (Offline-First):** Your business data, customer lists, and financial records live on *your* machine, not on a third-party server. Complete privacy and zero reliance on an internet connection for core operations.
-  * **Zero-Click WhatsApp Integration:** Unlike web-based CRMs that require expensive API keys (like Twilio or Meta APIs) to send messages, QuantumLedger natively hooks into WhatsApp Web to send instant digital invoices to customers for free.
+  * **Zero-Click WhatsApp Integration:** Unlike web-based CRMs that require expensive API keys to send messages, QuantumLedger natively hooks into WhatsApp Web to send instant digital invoices to customers for free.
   * **No Recurring Fees:** A standalone executable that runs flawlessly without a monthly subscription.
   * **Military-Grade Local Security:** Built-in PIN authentication and recovery systems ensure that unauthorized personnel cannot access your financial ledgers.
   * **Frictionless Dues Management:** Automatically calculates and carries forward previous customer balances into new invoices, making credit management effortless.
