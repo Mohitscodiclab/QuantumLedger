@@ -1,0 +1,30 @@
+====================================================================
+PROPRIETARY AND CONFIDENTIAL SOFTWARE LICENSE
+====================================================================
+Copyright (c) 2026 Mohit. All Rights Reserved.
+
+WARNING: STRICTLY RESTRICTED ACCESS
+This codebase, including all associated files, scripts, executables, and documentation (collectively, the "Software"), is the exclusive intellectual property of Mohit (the "Author"). 
+
+1. ZERO PERMISSION GRANTED
+I am NOT providing anyone permission to use, run, or deploy this code. 
+You are strictly prohibited from:
+- Copying, downloading, or reproducing the Software in any form.
+- Modifying, altering, or creating derivative works.
+- Distributing, sharing, selling, or publishing the Software.
+- Reverse-engineering, decompiling, or disassembling the Software.
+- Using the Software for any commercial, non-commercial, or educational purpose.
+
+2. LEGAL CONSEQUENCES & PENALTIES
+Unauthorized use, reproduction, or distribution of this Software is a severe violation of intellectual property laws. Violators will be prosecuted to the maximum extent permitted by law under:
+- The Copyright Act, 1957 (India): Sections 51 and 63 for civil and criminal infringement.
+- The Information Technology (IT) Act, 2000 (India): Sections 43 and 66 for computer-related offenses, unauthorized access, and data theft.
+- The Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita (BNS): Relevant sections pertaining to criminal breach of trust, cheating, and misappropriation of intellectual property.
+
+3. ENFORCEMENT
+Any unauthorized public display (including unauthorized forks or clones on GitHub), distribution, or commercial use of this code will result in immediate legal action. This includes, but is not limited to, immediate DMCA takedown notices, injunctions, and lawsuits for financial damages.
+
+4. CONTACT INFORMATION
+For more details, inquiries regarding this software, or to request explicit, written licensing permission, contact the AUTHOR.
+
+====================================================================
